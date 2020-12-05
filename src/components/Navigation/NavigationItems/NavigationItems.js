@@ -1,5 +1,6 @@
 import React from 'react';
 import '../NavigationItems/NavigationItems.css';
+import styled from 'styled-components';
 
 const navigationItems = () => {
   return(
